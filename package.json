@@ -10,7 +10,7 @@
     "ecommerce api",
     "shopping cart api"
   ],
-  "bugs": "",
+  "bugs": "https://github.com/EcommEasy/ecommeasy-client/issues",
   "license": "MIT",
   "author": {
     "name": "Sourav Kumar Nanda <souravkumarnanda4@gmail.com>",
@@ -19,7 +19,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/EcommEasy/ecommeasy-client"
   },
   "scripts": {
     "build": "babel src -d lib",
